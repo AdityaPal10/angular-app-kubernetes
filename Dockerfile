@@ -1,3 +1,3 @@
 # stage 1
-FROM node:latest as node
+FROM rhel:7.5
 
