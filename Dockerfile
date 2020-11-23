@@ -1,2 +1,2 @@
-FROM rhel:7.5
+docker pull registry.ford.com/paditya/testrepo
 
